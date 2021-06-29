@@ -1,6 +1,7 @@
 # isisensoru
 Sıcaklık sensöründen alınan verinin cloud üzerinden okunması
 
+Proje Arduino Due üzerinden tekrar yapılıp güncellenecektir.
 
 Projede kullanılan componentler;
 
